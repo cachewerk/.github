@@ -6,7 +6,10 @@
 | Version | PHP       | Initial Release | Support until | Security fixes until |
 | ------- | --------- | --------------- | ------------- | -------------------- |
 | 1.x.x   | 7.4 - 8.2 | N/A             | N/A           | N/A                  |
-| < 1.0   | 7.4 - 8.2 | May 26, 2021    | N/A           | N/A                  |
+| 0.5.1   | 7.4 - 8.2 | Dec 9, 2022     | N/A           | N/A                  |
+| 0.2.1   | 7.4 - 8.1 | Dec 2, 2021     | N/A           | N/A                  |
+| 0.1.0   | 7.4 - 8.0 | May 26, 2021    | N/A           | N/A                  |
+
 
 ## Reporting a Vulnerability
 

@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Feature request
+    url: https://github.com/cachewerk/relay/discussions/categories/ideas
+    about: Suggest an idea for Relay
   - name: Support inquiry or question
-    url: https://github.com/cachewerk/relay/discussions
+    url: https://github.com/cachewerk/relay/discussions/categories/support
     about: Get help using Relay

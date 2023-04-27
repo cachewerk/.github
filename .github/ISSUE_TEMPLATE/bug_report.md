@@ -30,13 +30,13 @@ assignees: ''
 ## Additional context
 <!--- How has this bug affected you? What were you trying to accomplish? -->
 
-## Environment
-<!--- Include as many relevant details about the environment you experienced the bug in -->
-* Operating System and version:
-* PHP version:
-
 ## Relay diagnostics
 <!-- Include the Relay diagnostics from running `php --ri relay` -->
 ```
 ...
 ```
+
+## Environment
+<!--- Include as many relevant details about the environment you experienced the bug in -->
+* Operating System and version:
+* PHP version:

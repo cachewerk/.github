@@ -38,5 +38,6 @@ assignees: ''
 
 ## Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
-* Operating System and version:
+* OS and version:
 * PHP version:
+* Redis version:

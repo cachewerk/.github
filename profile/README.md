@@ -13,4 +13,4 @@ Relay is a Redis™ client like PhpRedis and Predis, except two orders of magnit
 - Try the [Laravel](https://github.com/cachewerk/relay/tree/main/src/Laravel), [WordPress](https://objectcache.pro/docs/relay/) and [Magento](https://github.com/cachewerk/magento-relay) integrations
 - [Read the documentation](https://relay.so/docs/)
 - [Join the Discord](https://discord.gg/exYBXqTXgY)
-- [Follow us on Twitter](https://twitter.com/RelayPHP)
+- [Follow us on Bluesky](https://bsky.app/profile/relay.so)

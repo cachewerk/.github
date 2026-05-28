@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://relay.so" target="_blank">
-    <img src="https://raw.githubusercontent.com/cachewerk/.github/main/assets/relay.svg?token=GHSAT0AAAAAABOUVMBSRC2V6UKH44A2ZD5YYQZFWMQ" width="325">
+    <img src="https://raw.githubusercontent.com/cachewerk/.github/refs/heads/main/assets/relay.svg" width="325">
   </a>
 </p>
 
 ## About Relay
 
-Relay is a Redis™ client like PhpRedis and Predis, except two orders of magnitude faster. It's written in C and you can try it out today.
+Relay is the fastest Redis client for PHP and delivers 100× faster cache reads, near-zero bandwidth — no code changes required.
 
 - [Install Relay](https://relay.so/docs/installation)
 - [Run benchmarks](https://github.com/cachewerk/relay)
